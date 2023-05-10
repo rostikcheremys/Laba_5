@@ -1,0 +1,13 @@
+D:\Documents\ЧНУ\C#\ЛР5\Program\Program\bin\Debug\Program.exe.config
+D:\Documents\ЧНУ\C#\ЛР5\Program\Program\bin\Debug\Program.exe
+D:\Documents\ЧНУ\C#\ЛР5\Program\Program\bin\Debug\Program.pdb
+D:\Documents\ЧНУ\C#\ЛР5\Program\Program\bin\Debug\nunit.framework.dll
+D:\Documents\ЧНУ\C#\ЛР5\Program\Program\bin\Debug\nunit.framework.testcasestorage.dll
+D:\Documents\ЧНУ\C#\ЛР5\Program\Program\bin\Debug\nunit.framework.xml
+D:\Documents\ЧНУ\C#\ЛР5\Program\Program\bin\Debug\nunit.framework.testcasestorage.pdb
+D:\Documents\ЧНУ\C#\ЛР5\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+D:\Documents\ЧНУ\C#\ЛР5\Program\Program\obj\Debug\Program.csproj.SuggestedBindingRedirects.cache
+D:\Documents\ЧНУ\C#\ЛР5\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Documents\ЧНУ\C#\ЛР5\Program\Program\obj\Debug\Program.csproj.CopyComplete
+D:\Documents\ЧНУ\C#\ЛР5\Program\Program\obj\Debug\Program.exe
+D:\Documents\ЧНУ\C#\ЛР5\Program\Program\obj\Debug\Program.pdb
