@@ -7,7 +7,11 @@ namespace Program
         public int hour, minute, second;
         public MyTime(int h, int m, int s)
         {
-            if (h >= 0 && h <= 23 && m >= 0 && m <= 59 && s >= 0 && s <= 59)
+            if (h > 23 || h < -23 )
+            {
+                hour = h %= 24;
+            }
+            if (m >= 0 && m <= 59 && s >= 0 && s <= 59)
             {
                 hour = h;
                 minute = m;
